@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Tips
 comments: true
 permalink: /projects/
 ---

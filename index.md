@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## 홍또 블로그
+## 홍또'S 블로그
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+업무중 배운것들과 IT지식 공유 블로그
