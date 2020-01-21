@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "coding2"
+title:  "coding"
 date:   2015-02-10 15:14:54
 categories: jekyll
 comments: true
