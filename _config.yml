@@ -21,8 +21,8 @@ permalink: /:year/:month/:day/:title/
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: hongddo
-disqus_url: "http://hongddo.github.io"
+disqus_shortname: hongseo-choi
+disqus_url: "http://hongseo-choi.github.io"
 #########################################
 
 # Build settings
