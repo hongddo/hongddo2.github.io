@@ -4,5 +4,8 @@ comments: true
 categories: Jenkins
 ---
 
-## aaaaaa
-sdf
+## Jenkins Global 설정
+
+![Menu](/static/img/manage_jenkins_01.png)
+
+1.Manage Jenkins 클릭
