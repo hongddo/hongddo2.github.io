@@ -8,47 +8,25 @@ permalink: /about/
 * content
 {:toc}
 
-## About the site
-This is a personal website of LiXizhi, created with github and jekyll. 
-Create your own website is as easy as clone or fork a [template](https://github.com/LiXizhi/lixizhi.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
+## About the Hongddo
 
-### Admin tools
-* site [configuration file](https://github.com/LiXizhi/lixizhi.github.io/blob/master/_config.yml)
-* Jekyll + [lixizhi.duoshuo.com](http://lixizhi.duoshuo.com/admin/)
-* Jekyll + [lixizhi.disqus.com](http://lixizhi.disqus.com/admin/)
-* Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
-   * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
-* Jekyll official site: [jekyllrb.com](http://jekyllrb.com)
-* YAML for human readable markdown: [yaml.org](http://www.yaml.org/)
-* markdown reference: [kramdown](http://kramdown.gettalong.org/quickref.html)
+![Menu](/static/img/hongddo.jpg)
 
-### About comments
-Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
+              [홍또]
 
-    ---
-    layout: post
-    comments: true
-    # other options
-    ---
+1992년 포항 출생
 
-### Sample markdowns
-Click view source at the bottom of the page
+1999년 유강초등학교 입학
 
-* Embedding code
-{% highlight lua %}
-local function main()
-	print("hello world everyone")
-end
-{% endhighlight %}
+2011년 강릉고등학교졸업 
+
+2019년 회사원됨
+
+### 블로그 운영 목적
+* 개인역량강화
+* 정보 공유
+* 노하우 기록
 
 
-## About me
 
-My primary research interest is in artificial intelligence, programming and education. See my project page for details.
-
-
-### 2005 Old Website 
-Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
-
-* [Xizhi's old website before 2005](/oldsite2005/index.htm). 
 
