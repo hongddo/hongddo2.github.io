@@ -60,7 +60,7 @@ nav{
 }
 
 /* index main */
-.banner img{
+.banner{
 	background-image:url(/static/img/hongddo.jpg);
 				background-repeat:no-repeat;
 				background-position:top center;
