@@ -60,10 +60,11 @@ nav{
 }
 
 /* index main */
-.imgs img{
-	position: absolute; top:0; left: 0;
-	width: 50%;
-	height: 50%;
+.banner img{
+	background-image:url(/static/img/hongddo.jpg);
+				background-repeat:no-repeat;
+				background-position:top center;
+				background-size:auto;
 	}
 
 
