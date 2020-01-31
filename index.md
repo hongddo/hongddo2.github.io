@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: main
 ---
 
 ## 홍또'S 블로그
