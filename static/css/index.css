@@ -60,7 +60,7 @@ nav{
 }
 
 /* index main */
-.banner{
+#banner{
 	background-image:url(/static/img/main_img.jpg);
 				background-repeat:no-repeat;
 				background-position:top center;
@@ -70,10 +70,6 @@ nav{
 
 .main{
 	min-height: 800px;
-	background-image:url(/static/img/main_img.jpg);
-				background-repeat:no-repeat;
-				background-position:top center;
-				background-size:auto;
 }
 .post-area{
 	
