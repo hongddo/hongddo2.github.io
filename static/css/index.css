@@ -47,10 +47,10 @@ table td{
 
 /* navbar */
 nav{
-	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.5);
-	-moz-box-shadow: 0 2px 4px rgba(0,0,0,0.5);
-	-o-box-shadow: 0 2px 4px rgba(0,0,0,0.5);
-	box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 2px 4px rgba(242, 229, 243, 0.678);
+	-moz-box-shadow: 0 2px 4px rgba(242, 229, 243, 0.678);
+	-o-box-shadow: 0 2px 4px rgba(242, 229, 243, 0.678);
+	box-shadow: 0 2px 4px rgba(242, 229, 243, 0.678);
 
 	border-radius: 0;
 }

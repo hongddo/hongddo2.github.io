@@ -10,9 +10,12 @@ permalink: /about/
 
 ## About the Hongddo
 
-![Menu](/static/img/hongddo.jpg)
+   
+   ![프로필.jpg](/static/img/hongddo.jpg) 
 
-              [홍또]
+
+
+[홍또]
 
 1992년 포항 출생
 
@@ -22,10 +25,17 @@ permalink: /about/
 
 2019년 회사원됨
 
+
 ### 블로그 운영 목적
-* 개인역량강화
-* 정보 공유
-* 노하우 기록
+
+
+
+ * 개인역량강화
+
+ * 정보 공유
+
+ * 노하우 기록
+
 
 
 
